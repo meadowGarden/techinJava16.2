@@ -1,0 +1,4 @@
+
+Užduotis. Reikia išmokyti AutomaticDialer paskambinti MobilePhone nors jis moka naudoti tik Phone interface'ą.
+JUnit testų nėra. Atsispausdinkite AutomaticDialer rezultatą (sysout main metode).
+Turi grįžti programos (ne jūsų rašytas) sveikinimas, kuris prasideda žodžiais "Jus sveikina ...".
